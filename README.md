@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Bhushan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityab5&label=Profile%20views&color=0e75b6&style=flat" alt="adityab5" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhushan55" target="blank"><img src="https://img.shields.io/twitter/follow/abhushan55?logo=twitter&style=for-the-badge" alt="abhushan55" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend**
+- 🔭 I’m currently working on **making new and interactive websites**
 
 - 📫 How to reach me **bhushanadiit55555@gmail.com**
 
