@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **making new and interactive websites**
 
-- 📫 How to reach me **bhushanadiit55555@gmail.com**
+- 📫 How to reach me **adityabhushan517@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
